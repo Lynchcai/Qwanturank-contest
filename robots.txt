@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qwanturankboost.fr/sitemap.xml
